@@ -1,0 +1,19 @@
+site_name: 'Documentació de les tasques'
+theme:
+  name: 'mkdocs'
+
+nav:
+  - Inici: index.md
+  - Articles EDD:
+    - Tema 1:
+      - Article 1: edd/document_1.md
+      - Article 2: edd/document_2.md
+      - Article 3: edd/document_3.md
+      - Article 4: edd/document_4.md
+    - Tema 3:
+      - Article 1: edd/document_5.md
+      - Exercici 1: edd/exercici_1.md
+      - Exercici 2: edd/exercici_2.md
+  - Articles LMI:
+    - Article 1: lmi/document_1.md
+    - Article 2: lmi/document_2.md
